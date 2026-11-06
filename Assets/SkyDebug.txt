@@ -1,0 +1,7 @@
+Sky pos: (0.00, 0.00, 0.00)
+Sky scale: (7.50, 7.50, 1.00)
+Sprite: SkyBackground
+Material: Sprites-Default (Sprites/Default)
+Color: RGBA(1.000, 1.000, 1.000, 1.000)
+SortingOrder: -10
+Enabled: True
